@@ -32,7 +32,7 @@ I'm a **car enthusiast** who enjoys exploring the intersection of technology and
 Currently, I'm learning:
 - **Computer Vision in Python**
 - Enhancing my **SQL** skills to an expert level
-
+- Exploring data warehouses, building expertise in large-scale data storage, ETL processes, and data modeling.
 ---
 
 ## 💼 Career Goals
