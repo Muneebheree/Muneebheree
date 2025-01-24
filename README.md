@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Moneeb!
 
-Welcome to my GitHub! I'm a passionate data analysis student on a journey to become a **Data Engineer** or **Machine Learning Engineer**. With a solid background in **data analytics** and a focus on developing deep technical skills, I’m currently honing my expertise in tools like **Python, SQL, Power BI, and Excel**.
+Welcome to my GitHub! I'm a passionate data analysis student on a journey to become a **Data Engineer** or **Machine Learning Engineer**. With a solid background in **data analytics** and a focus on developing deep technical skills, I’m currently honing my expertise in tools like **Python, SQL, Power BI, Pytorch, Streamlit, Databricks**.
 
 ---
 
