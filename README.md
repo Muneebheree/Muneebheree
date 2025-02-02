@@ -23,14 +23,9 @@ With a strong foundation in **marketing analytics** from my prior experience, I'
 
 ---
 
-## 🚗 Fun Fact
-I'm a **car enthusiast** who enjoys exploring the intersection of technology and automotive innovation.
-
----
-
 ## 🌱 Current Focus
-Currently, I'm learning:
-- **Computer Vision in Python**
+Currently, I'm exploring:
+- **Computer Vision, GenerativeAI**
 - Enhancing my **SQL** skills to an expert level
 - Exploring data warehouses, building expertise in large-scale data storage, ETL processes, and data modeling.
 ---
@@ -44,7 +39,7 @@ I'm actively looking for opportunities in data engineering and machine learning 
 - [LinkedIn](https://www.linkedin.com/in/muneebhere/)
 - [Email](mailto:muneebabdullah992@gmail.com)
 
-Feel free to reach out if you'd like to collaborate or just talk about data, machine learning, or cars!
+Feel free to reach out if you'd like to collaborate or just talk about data or machine learning!
 
 Thanks for visiting my profile! 😊
 
